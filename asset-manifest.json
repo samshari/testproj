@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12897772.css",
+    "main.js": "/static/js/main.ff6e8160.js",
+    "static/js/787.c65a3ab7.chunk.js": "/static/js/787.c65a3ab7.chunk.js",
+    "static/media/engineer.png": "/static/media/engineer.a37c8e8a2f877cf87b0d.png",
+    "static/media/hutpermitting.webp": "/static/media/hutpermitting.780a3203d91774206014.webp",
+    "index.html": "/index.html",
+    "main.12897772.css.map": "/static/css/main.12897772.css.map",
+    "main.ff6e8160.js.map": "/static/js/main.ff6e8160.js.map",
+    "787.c65a3ab7.chunk.js.map": "/static/js/787.c65a3ab7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12897772.css",
+    "static/js/main.ff6e8160.js"
+  ]
+}
